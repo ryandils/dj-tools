@@ -10,6 +10,6 @@ A collection of scripts and utilities for DJs managing large Rekordbox libraries
 ## Getting Started  
 1. Clone the repository:  
    ```
-   git clone https://github.com/yourusername/dj-tools.git
+   git clone git@github.com:ryandils/dj-tools.git
    cd dj-tools
    ```
