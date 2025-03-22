@@ -1,0 +1,16 @@
+# macOS system files  
+.DS_Store  
+
+# Rekordbox-related temporary files  
+rekordbox.log  
+rekordbox_backup.db  
+rekordbox_cache/  
+
+# Python & Node.js dependencies (if applicable)  
+__pycache__/  
+node_modules/  
+.env  
+
+# Logs and temporary files  
+*.log  
+*.tmp  
